@@ -2,7 +2,7 @@ TicTacToe
 =========
 
 Tic Tac Toe uses socket.io for synchronisation within its various hosts.
-Currently Tic Tac Toe broadcasts the requests to all and hence only two users can play.
+Currently, Tic Tac Toe broadcasts the requests to all and hence only two users can play.
 Possible improvement to create rooms for pairs of users.
 
 Steps:
